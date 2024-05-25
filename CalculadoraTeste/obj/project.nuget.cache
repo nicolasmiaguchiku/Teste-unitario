@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wykQKQ8reb2QLUQRchdgvwKG3w7ouOcj39KVhELcvcrw9LC5aXj+XUY8gMbVRbCXN2jHJZf8IcQ6b1a68E+tYg==",
+  "dgSpecHash": "+SmttGHtEUa1iT2XglN89dmR1XJUwJa/KCG6zrcim/76ILqsbINlRRP0L2Fjq/xSuFr4H+rr3nxIRfIvvYQrxA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\keila\\OneDrive\\Área de Trabalho\\ModuloTeste\\CalculadoraTeste\\CalculadoraTeste.csproj",
+  "projectFilePath": "C:\\Users\\keila\\OneDrive\\Área de Trabalho\\ModuloTeste\\calculadoraTeste\\CalculadoraTeste.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\keila\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\keila\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",

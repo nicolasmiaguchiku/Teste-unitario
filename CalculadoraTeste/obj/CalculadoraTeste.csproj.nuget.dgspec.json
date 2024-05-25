@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\keila\\OneDrive\\Área de Trabalho\\ModuloTeste\\CalculadoraTeste\\CalculadoraTeste.csproj": {}
+    "C:\\Users\\keila\\OneDrive\\Área de Trabalho\\ModuloTeste\\calculadoraTeste\\CalculadoraTeste.csproj": {}
   },
   "projects": {
-    "C:\\Users\\keila\\OneDrive\\Área de Trabalho\\ModuloTeste\\CalculadoraTeste\\CalculadoraTeste.csproj": {
+    "C:\\Users\\keila\\OneDrive\\Área de Trabalho\\ModuloTeste\\calculadoraTeste\\CalculadoraTeste.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\keila\\OneDrive\\Área de Trabalho\\ModuloTeste\\CalculadoraTeste\\CalculadoraTeste.csproj",
+        "projectUniqueName": "C:\\Users\\keila\\OneDrive\\Área de Trabalho\\ModuloTeste\\calculadoraTeste\\CalculadoraTeste.csproj",
         "projectName": "CalculadoraTeste",
-        "projectPath": "C:\\Users\\keila\\OneDrive\\Área de Trabalho\\ModuloTeste\\CalculadoraTeste\\CalculadoraTeste.csproj",
+        "projectPath": "C:\\Users\\keila\\OneDrive\\Área de Trabalho\\ModuloTeste\\calculadoraTeste\\CalculadoraTeste.csproj",
         "packagesPath": "C:\\Users\\keila\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\keila\\OneDrive\\Área de Trabalho\\ModuloTeste\\CalculadoraTeste\\obj\\",
+        "outputPath": "C:\\Users\\keila\\OneDrive\\Área de Trabalho\\ModuloTeste\\calculadoraTeste\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

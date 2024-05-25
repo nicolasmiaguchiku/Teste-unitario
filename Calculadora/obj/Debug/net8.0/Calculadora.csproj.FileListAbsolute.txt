@@ -12,3 +12,4 @@ C:\Users\keila\OneDrive\Área de Trabalho\ModuloTeste\Calculadora\obj\Debug\net8
 C:\Users\keila\OneDrive\Área de Trabalho\ModuloTeste\Calculadora\obj\Debug\net8.0\Calculadora.pdb
 C:\Users\keila\OneDrive\Área de Trabalho\ModuloTeste\Calculadora\obj\Debug\net8.0\Calculadora.genruntimeconfig.cache
 C:\Users\keila\OneDrive\Área de Trabalho\ModuloTeste\Calculadora\obj\Debug\net8.0\ref\Calculadora.dll
+C:\Users\keila\OneDrive\Área de Trabalho\ModuloTeste\Calculadora\obj\Debug\net8.0\Calculadora.sourcelink.json
